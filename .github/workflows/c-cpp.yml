@@ -14,4 +14,4 @@ jobs:
     steps:
     - uses: actions/checkout@v3
     - name: configure
-      run: g++ -finput-charset=UTF-8 -fexec-charset=GBK .\因式分解.cpp  -o release
+      run: g++ -finput-charset=UTF-8 -fexec-charset=GBK 因式分解.cpp  -o release
