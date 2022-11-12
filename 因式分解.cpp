@@ -46,6 +46,8 @@ int main()
     cin>>n;
 	cout<<"结果：";
     yin(n);
+cout<<endl;
+
 	system("pause");
     return 0;
 }
